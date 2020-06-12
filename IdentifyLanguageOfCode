@@ -1,0 +1,1 @@
+(?<JavaCode>(?:import java)|(?:System\.out)|(?:JOption))|(?<CCode>(?:#include<[a-zA-Z.]+>)|(?:((print)|(scan))f))|(?<PythonCode>(?:def\s[a-zA-Z]+)|(?:print\s\D[a-zA-Z]+))
